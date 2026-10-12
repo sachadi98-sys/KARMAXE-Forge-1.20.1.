@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="karmaxe"
+version="1.0.0"
+displayName="KARMAXE Main Menu"
+description='''Menú principal personalizado para la serie KARMAXE.'''
